@@ -1,0 +1,14 @@
+npm create-next-app@latest ./ --typescript --eslint
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm i react-icons
+npm i zustand
+npm i axios react-hook-form react-hot-toast next-auth @prisma/client @next-auth/prisma-adapter bcrypt query-string world-countries react-select 
+npm i -D prisma
+npx prisma init
+npm i -D @types/bcrypt 
+
+npm i leaflet react-leaflet
+npm i -D @types/leaflet 
+npm install next-cloudinary date-fns react-date-range react-spinners
+npm i -D @types/react-date-range
